@@ -1,0 +1,3 @@
+version 1
+def multiplication(m,n):
+	return m*n
