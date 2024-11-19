@@ -4,3 +4,4 @@ def multiplication(m,n):
 
 def division(x,y)
 	return x/y
+multiply - lambda a,b:a*b
