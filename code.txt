@@ -4,6 +4,7 @@ def multiplication(m,n):
 
 def division(x,y)
 	return x/y
+<<<<<<< HEAD
 
 def addition(a,b)
 	return a+b
