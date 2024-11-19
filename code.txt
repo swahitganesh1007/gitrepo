@@ -1,6 +1,9 @@
-version 2
+version 2 (version from practice branch)
 def multiplication(m,n):
 	return m*n
 
 def division(x,y)
 	return x/y
+
+def addition(a,b)
+	return a+b
